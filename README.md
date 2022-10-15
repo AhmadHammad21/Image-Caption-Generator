@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/77201365/195993136-0d37b272-8bf8-4c83-
 
 
 # Pre-requisites
-Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natural language processing
+Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natural language processing.
 
 
 # Project Structure
