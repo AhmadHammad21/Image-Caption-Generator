@@ -44,6 +44,10 @@ Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natur
 
 - generate_caption.py
 
+
+# Installation
+
+
 # Future Enhancements
 - [ ] Try Different Models and Pre-trained Models.
 - [ ] Improve the Accuracy of the Captions.
