@@ -5,6 +5,7 @@
 * [Pre-requisites](#pre-requisites)
 * [Project Structure](#project-structure)
 * [Future Enhancements](#future-enhancements)
+* [Installation](#installation)
 * [Contact](#contact)
 
 
