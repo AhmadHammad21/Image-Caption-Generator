@@ -39,3 +39,7 @@ Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natur
 - [ ] Try Different Models and Pre-trained Models.
 - [ ] Improve the Accuracy of the Captions.
 
+# Contact
+
+Ahmad Hammad [linked-in](https://www.linkedin.com/in/ahmad-hammad-057369203/)
+
