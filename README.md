@@ -6,6 +6,10 @@ This project is to practice computer vision, natual langauge processing to recog
 # Project Demo
 
 
+https://user-images.githubusercontent.com/77201365/195993136-0d37b272-8bf8-4c83-9a53-986fcd32d42a.mp4
+
+
+
 
 # Pre-requisites
 Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natural language processing
