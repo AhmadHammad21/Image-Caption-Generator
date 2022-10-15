@@ -1,6 +1,6 @@
 
 # Project Overview
-This project is to practice computer vision, natual langauge processing to recognize the context of an image and describe them.
+This project is to practice computer vision, natual langauge processing to recognize the context of an image and describe them. In addition deploying it using streamlit.
 
 
 # Project Demo
