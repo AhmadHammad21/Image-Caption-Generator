@@ -27,6 +27,8 @@ Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natur
 - models
     - model_17.h5
 
+- others
+
 - main.ipynb
 
 - app.py
