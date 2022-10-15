@@ -36,6 +36,6 @@ Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natur
 - generate_caption.py
 
 # Future Enhancements
-- [] Try Different Pre-trained Models
+- [ ] Try Different Pre-trained Models
     
 
