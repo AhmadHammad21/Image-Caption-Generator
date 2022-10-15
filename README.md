@@ -4,7 +4,7 @@
 * [Project Demo](#project-demo)
 * [Pre-requisites](#pre-requisites)
 * [Project Structure](#project-structure)
-* [Future Enhancements](#future-enhancments)
+* [Future Enhancements](#future-enhancements)
 * [Contact](#contact)
 
 
