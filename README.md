@@ -9,6 +9,7 @@ This project is to practice computer vision, natual langauge processing to recog
 https://user-images.githubusercontent.com/77201365/195993136-0d37b272-8bf8-4c83-9a53-986fcd32d42a.mp4
 
 
+![res2](https://user-images.githubusercontent.com/77201365/195993487-1f91bb80-abe1-4e23-876e-d511242c149f.png)
 
 
 # Pre-requisites
