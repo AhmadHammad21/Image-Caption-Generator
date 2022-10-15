@@ -18,21 +18,24 @@ Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natur
 
 # Project Structure
 
-- data
-    - processed
-    - raw
+- data/
+    - processed/
+    - raw/
         - Flicker8k_Dataset
         - Flicker8k_Text
 
-- models
+- models/
     - model_17.h5
 
-- others
+- others/
 
 - main.ipynb
 
 - app.py
 
 - generate_caption.py
+
+# Future Enhancements
+[] Try Different Pre-trained Models
     
 
