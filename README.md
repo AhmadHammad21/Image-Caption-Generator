@@ -1,5 +1,15 @@
 
 # Project Overview
+This project is to practice computer vision, natual langauge processing to recognize the context of an image and describe them.
+
+
+# Project Demo
+
+
+
+# Pre-requisites
+Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natural language processing
+
 
 # Project Structure
 
