@@ -1,4 +1,13 @@
 
+# Table of Contents
+* [Project Overview](#project-overview)
+* [Project Demo](#project-demo)
+* [Pre-requisites](#pre-requisites)
+* [Project Structure](#project-structure)
+* [Future Enhancements](#future-enhancments)
+* [Contact](#contact)
+
+
 # Project Overview
 This project is to practice computer vision, natual langauge processing to recognize the context of an image and describe them. In addition deploying it using streamlit.
 
