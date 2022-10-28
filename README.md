@@ -48,36 +48,36 @@ Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natur
 
 - First Option: use the GPU on anaconda
 
-open your anaconda prompt
+1. open your anaconda prompt
 
-conda create --name tf_gpu_env
+2. conda create --name tf_gpu_env
 
-conda activate tf_gpu_env
+3. conda activate tf_gpu_env
 
-conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
+4. conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 
-conda install ipykernel
+5. conda install ipykernel
 
-pip install tensorflow-gpu
+6. pip install tensorflow-gpu
 
-pip install Pillow
+7. pip install Pillow
 
-conda install -c conda-forge ipywidgets
+8. conda install -c conda-forge ipywidgets
 
-jupyter nbextension enable --py widgetsnbextension
+9. jupyter nbextension enable --py widgetsnbextension
 
-pip install pandas
+10. pip install pandas
 
 
-- Second Option:
+- Second Option: without anaconda
 
-open your command line (cmd)
+1. open your command line (cmd)
 
-python -3 -m venv my-env
+2. python -3 -m venv my-env
 
-py-env\Scripts\activate
+3. my-env\Scripts\activate
 
-pip install -r requirements.txt
+4. pip install -r requirements.txt
 
 
 - Third Option: 
