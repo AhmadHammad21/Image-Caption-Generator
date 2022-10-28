@@ -46,7 +46,7 @@ Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natur
 
 # Installation
 
-- First Option: use the GPU on anaconda
+## First Option: use the GPU on anaconda
 
 1. open your anaconda prompt
 
@@ -69,7 +69,7 @@ Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natur
 10. pip install pandas
 
 
-- Second Option: without anaconda
+## Second Option: without anaconda
 
 1. open your command line (cmd)
 
@@ -80,7 +80,7 @@ Good knowledge of deep learning, keras, tensorflow, jupyter notebooks, and natur
 4. pip install -r requirements.txt
 
 
-- Third Option: 
+## Third Option: 
 
 You can use your cpu, just install tensorflow and other libraries
 
