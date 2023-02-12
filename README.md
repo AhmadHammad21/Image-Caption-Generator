@@ -1,3 +1,5 @@
+Most of the code was taken from https://data-flair.training/blogs/python-based-project-image-caption-generator-cnn/
+I changed some as my needs
 
 # Table of Contents
 * [Project Overview](#project-overview)
